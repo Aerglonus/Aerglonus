@@ -12,8 +12,8 @@ ____________________________
 Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on whatever i find interesting 
-- 🌱 I’m currently learning python/nodejs/javascript    
-- 🤔 I’m looking for help with everything <img align="right" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Aerglonus&show_icons=true&theme=buefy"/>
+- 🌱 I’m currently learning python/nodejs/javascript      <img align="right"  width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Aerglonus&show_icons=true&theme=buefy"/>
+- 🤔 I’m looking for help with everything
 - 💬 Ask me about anything  
 - 📫 How to reach me: ...
 - 😄 You can find my on Twitch. 
@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 ____________
 <a href="https://discord.gg/FHk84xf"> <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord"  /> </a>
 <a href="https://gitlab.com/Aerglonus"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/></a>
-
 
 
