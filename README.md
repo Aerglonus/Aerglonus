@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord" href="https://discord.com" />
 
 <!--
 **Aerglonus/Aerglonus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
