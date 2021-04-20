@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aerglonus)](https://github.com/anuraghazra/github-readme-stats)
 
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
