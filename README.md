@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ I use VIM / VS CODE / Hyper Terminal / WSL / Ubuntu Server to write and test everything I post here. 
 ____________
 
-  <a href="https://discord.gg/FHk84xf"> <img alt="Discord" align="right" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a> 
+  <a href="https://discord.gg/FHk84xf"> <img alt="Discord" align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a> 
   <img alt="Vim" src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-  <a href="https://gitlab.com/Aerglonus"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/></a>
+  <a href="https://gitlab.com/Aerglonus"><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a>
