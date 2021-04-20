@@ -3,8 +3,9 @@ I'm Aerglonus welcome to my journey.
 <p>
  <a href="https://twitch.tv/Aerglonus"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
  <a href="https://instagram.com/Aerglonus"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/caleb-contreras-8a41764b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/caleb-contreras-8a41764b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://twitter.com/Aerglonus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
+ <a href="mailto:leeannn@protonmail.com"><img alt="Protonmail" src="https://img.shields.io/badge/Contact-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 </p>
 
 * * *
