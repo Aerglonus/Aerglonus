@@ -1,4 +1,5 @@
 # Hi there 👋
+I'm Aerglonus welcome to my journey. 
 <p>
  <a href="https://twitch.tv/Aerglonus"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
  <a href="https://instagram.com/Aerglonus"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -17,8 +18,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything  
 - 📫 How to reach me: ...
 - 😄 You can find my on Twitch. 
-- ⚡ Fun fact: ... 
+- ⚡ I use VIM / VS CODE / Hyper Terminal / WSL / Ubuntu Server to write and test everything I post here. 
 ____________
 
-  <a href="https://discord.gg/FHk84xf"> <img align="right" src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord"  /> </a> 
+  <a href="https://discord.gg/FHk84xf"> <img alt="Discord" align="right" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a> 
+  <img alt="Vim" src="https://img.shields.io/badge/VIM%20-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
   <a href="https://gitlab.com/Aerglonus"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/></a>
