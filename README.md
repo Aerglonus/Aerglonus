@@ -2,10 +2,9 @@
 
 <!--
 **Aerglonus/Aerglonus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<p> <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aerglonus&show_icons=true&theme=buefy)"/> </p>
-Here are some ideas to get you started:
-  <img align="right" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Aerglonus&show_icons=true&theme=buefy"/>
 
+  <img align="right" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Aerglonus&show_icons=true&theme=buefy"/>
+Here are some ideas to get you started:
 - 🔭 I’m currently working on whatever i find interesting
 - 🌱 I’m currently learning python/nodejs/javascript   
 - 🤔 I’m looking for help with everything
