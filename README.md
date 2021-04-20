@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on whatever i find interesting <img align="right" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Aerglonus&show_icons=true&theme=buefy"/>
 - 🌱 I’m currently learning python/nodejs/javascript    
 - 🤔 I’m looking for help with everything
-- 💬 Ask me about anything
+- 💬 Ask me about anything  
 - 📫 How to reach me: ...
 - 😄 You can find my on Twitch. 
-- ⚡ Fun fact: ...
-<p> </p>
+- ⚡ Fun fact: ... <img align="right" width="490" height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /></p>
+
 
 
