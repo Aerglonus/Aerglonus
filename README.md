@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 You can find my on Twitch. 
 - ⚡ Fun fact: ... 
 ____________
-<a href="https://discord.gg/FHk84xf"> <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord"  /> </a>
-<a href="https://gitlab.com/Aerglonus"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/></a>
 
-
+ > <a href="https://discord.gg/FHk84xf"> <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord"  /> </a> 
+ > <a href="https://gitlab.com/Aerglonus"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/></a>
