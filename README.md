@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> I'm Aerglonus welcome to my journey. 
+# Hi there ✌️ I'm Aerglonus welcome to my journey. 
 
 <p>
  <a href="https://twitch.tv/Aerglonus"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
