@@ -19,7 +19,7 @@ Lil bit about me:
 - 💬 Ask me about anything  
 - 📫 How to reach me: ...
 - 😄 You can find my on Twitch. 
-- ⚡ I use VIM / VS CODE / Hyper Terminal / WSL / Ubuntu Server to write and test everything I post here. 
+- ⚡ 
 ____________
 
   <a href="https://discord.gg/FHk84xf"> <img alt="Discord" align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a> 
