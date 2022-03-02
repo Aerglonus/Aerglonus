@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about anything  
 - 📫 How to reach me: ...
-- 😄 You can find my on Twitch. 
-____________
+- 😄 You can find my  Here . 
 
   <a href="https://discord.gg/FHk84xf"> <img alt="Discord" align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a>
   <a href="https://twitch.tv/Aerglonus"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
