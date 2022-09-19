@@ -12,9 +12,9 @@
 
 <p align="center">
   <a href="https://github.com/aerglonus">
-    <picture>
+    <picture><
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aerglonus/Aerglonus/blob/main/sadcat.gif">
-      <img width="300px" alt="Lonus about me cat gif" src="https://github.com/Aerglonus/Aerglonus/blob/main/snifcat.gif">
+      <img width="300" alt="Lonus about me cat gif" src="https://github.com/Aerglonus/Aerglonus/blob/main/snifcat.gif">
     </picture>
   </a>
 </p>
