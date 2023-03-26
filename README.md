@@ -19,6 +19,13 @@
   </a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/155918271927812096">
+    <img src="https://lanyard.cnrad.dev/api/155918271927812096?theme=light&bg=f6f8fa">
+  </picture>
+</p>
+
 
 
   <a href="https://discord.gg/FHk84xf"> <img alt="Discord" align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a>
